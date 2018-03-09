@@ -1,0 +1,83 @@
+body {
+        background-color: #F00;
+      }
+      .headerNav {
+         height: 50px;
+         width: 100%;
+         background-color: #00F;
+      }
+      .link1 {
+         color: #fff;
+         float: right;
+         margin-right: 1%;
+         margin-top: 1%;
+      }
+      .headLogo {
+         width: 50%;
+         padding-top: 1%;
+         padding-bottom: 1%;
+      }
+
+      .img-slider {
+        background-color: #00F;
+      }
+
+      .image-1 {
+        width: 50%;
+      }
+
+      .unslider-arrow {
+        display: none;
+      }
+
+      .image-1 {
+        padding: 1%;
+      }
+
+      .image-flip {
+        image-orientation: 90deg flip;
+        width: 29% !important;
+      }
+
+      .divider-10 { 
+        width:100%; 
+        min-height:1px; 
+        margin-top:10px; 
+        margin-bottom:10px;  
+        display:inline-block; 
+        position:relative;
+      }
+
+      .paragraph1 {
+        background-color: #fff;
+      }
+
+      .paragraph2 {
+        background-color: #fff;
+      }
+
+      .sm-spacer {
+        flex-grow: unset !important;
+      }
+
+      .paragraphBody {
+        background-color: #00F;
+        padding: 1%;
+        font-family: courier;
+      }
+
+      .quoteBody {
+        background-color: #fff;
+      }
+
+      .wade {
+        background-color: #00f;
+      }
+
+      .simmons {
+        background-color: #00f;
+      }
+
+      .simmonsImage {
+        height: 84%;
+      }
